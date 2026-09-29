@@ -1,0 +1,4 @@
+# Configuration Netlify : lue automatiquement, rien à régler sur le site de Netlify
+# Site statique : pas de build, Netlify publie directement le dossier site/
+[build]
+  publish = "site"
